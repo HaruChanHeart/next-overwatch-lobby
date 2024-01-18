@@ -4,11 +4,11 @@ import ILobbyCard from "@/interfaces/LobbyCard";
 
 export default function LobbyCard(prop: ILobbyCard) {
     const Available = () => {
-        return <Chip size='sm' variant='dot' color='success'>Available</Chip>
+        return <Chip size='sm' variant='dot' color='success' className='bg-black/50'>Available</Chip>
     }
 
     const Unavailable = () => {
-        return <Chip size='sm' variant='dot' color='danger'>Unavailable</Chip>
+        return <Chip size='sm' variant='dot' color='danger' className='bg-black/50'>Unavailable</Chip>
     }
 
     return (
@@ -20,6 +20,7 @@ export default function LobbyCard(prop: ILobbyCard) {
                 className="z-0 w-full h-full object-cover"
                 src={`/images/lobby/${prop.image}.avif`}
             />
+            {prop.update ? <Chip variant='bordered' color='warning' radius='sm' className='absolute top-3 left-3 bg-black/75'>UPDATE</Chip> : null }
             <CardFooter className="absolute bg-black/60 bottom-0 z-10 border-t-1 border-default-600 dark:border-default-100">
                 <div className="flex flex-grow gap-2 items-center">
                     <div className="flex flex-col">

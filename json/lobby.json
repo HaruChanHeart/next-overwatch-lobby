@@ -5,7 +5,8 @@
         "name": "D.Va",
         "description": "Lunar New Year (2020)",
         "code": "710",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "name": "Overwatch World Cub",
         "description": "World Cup Event",
         "code": "817",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "name": "Overwatch League",
         "description": "Unused scene (No Music)",
         "code": "864",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "name": "Cupid Hanzo",
         "description": "Season 3 - Loverwatch Event",
         "code": "B6B",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "name": "Summer Games",
         "description": "Season 5 - Summer Games Event",
         "code": "BCE",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "name": "Sojourn",
         "description": "PvP Beta (2022)",
         "code": "D6C",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "name": "Junkrat, Roadhog",
         "description": "Winter Wonderland (2020)",
         "code": "D77",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "name": "Mei",
         "description": "Lunar New Year (2023)",
         "code": "DAD",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "name": "New Team",
         "description": "Alpha Test (2022)",
         "code": "E77",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "name": "One Punch Man",
         "description": "Season 3 - One Punch Man Event",
         "code": "EED",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "name": "Kiriko",
         "description": "Season 1 - Kiriko Release",
         "code": "EF3",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "name": "Main Menu",
         "description": "Season 1 - Menu",
         "code": "EFB",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "name": "Shambali Monastery",
         "description": "Season 2 - Shambali Monastery",
         "code": "F31",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 14,
@@ -109,7 +122,8 @@
         "name": "Zeus",
         "description": "Season 2 - Mythic Skin",
         "code": "F4A",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 15,
@@ -117,7 +131,8 @@
         "name": "Ramattra",
         "description": "Season 2 - Ramattra Release",
         "code": "F8F",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 16,
@@ -125,7 +140,8 @@
         "name": "Amaterasu",
         "description": "Season 3 - Mythic Skin",
         "code": "1003",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 17,
@@ -133,7 +149,8 @@
         "name": "Amaterasu (Video)",
         "description": "Season 3 - Mythic Skin",
         "code": "1045",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 18,
@@ -141,7 +158,8 @@
         "name": "Main Menu (League)",
         "description": "Main Menu with League Skin",
         "code": "1026",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 19,
@@ -149,7 +167,8 @@
         "name": "Galactic Emperor",
         "description": "Season 4 - Mythic Skin",
         "code": "1032",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 20,
@@ -157,7 +176,8 @@
         "name": "Antarctic Peninsula",
         "description": "Season 4 - Antarctic Peninsula",
         "code": "103D",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 21,
@@ -165,7 +185,8 @@
         "name": "Lifeweaver",
         "description": "Season 4 - Lifeweaver Release",
         "code": "1060",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 22,
@@ -173,7 +194,8 @@
         "name": "Questwatch",
         "description": "Season 5 - Questwatch",
         "code": "1033",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 23,
@@ -181,7 +203,8 @@
         "name": "A-7000 Wargod",
         "description": "Season 6 - Mythic Skin",
         "code": "10F2",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 24,
@@ -189,7 +212,8 @@
         "name": "Invasion",
         "description": "Season 6 - Invasion",
         "code": "1104",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 25,
@@ -197,7 +221,8 @@
         "name": "Illari",
         "description": "Season 6 - Illari Release",
         "code": "102B",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 26,
@@ -205,7 +230,8 @@
         "name": "Onryou",
         "description": "Season 7 - Mythic Skin",
         "code": "1150",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 27,
@@ -213,7 +239,8 @@
         "name": "Onryou (Illust)",
         "description": "Season 7 - Mythic Skin",
         "code": "10AC",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 28,
@@ -221,7 +248,8 @@
         "name": "Rise of the Darkness",
         "description": "Season 7 - Rise of the Darkness",
         "code": "115C",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 29,
@@ -229,7 +257,8 @@
         "name": "LE SSERAFIM",
         "description": "Season 7 - LE SSERAFIM Event",
         "code": "1173",
-        "available": true
+        "available": true,
+        "update": false
     },
     {
         "id": 31,
@@ -237,7 +266,8 @@
         "name": "Grand Beast",
         "description": "Season 8 - Mythic Skin",
         "code": "1197",
-        "available": true
+        "available": true,
+        "update": true
     },
     {
         "id": 32,
@@ -245,7 +275,8 @@
         "name": "Mauga",
         "description": "Season 8 - Mauga Release",
         "code": "118A",
-        "available": true
+        "available": true,
+        "update": true
     },
     {
         "id": 33,
@@ -253,6 +284,7 @@
         "name": "Winter Wonderland (2023)",
         "description": "Season 8 - Winter Wonderland",
         "code": "11B4",
-        "available": true
+        "available": true,
+        "update": true
     }
 ]
