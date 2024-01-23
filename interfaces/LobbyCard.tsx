@@ -5,4 +5,5 @@ export default interface ILobbyCard {
     description: string
     code: string
     available: boolean
+    update: boolean
 }
