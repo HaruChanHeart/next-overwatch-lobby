@@ -9,7 +9,7 @@ import LobbyCard from '@/components/Card/LobbyCard'
 import ErrorScreen from '@/components/ErrorScreen'
 import LoadingScreen from '@/components/Loading'
 import ILobbyCard from '@/interfaces/LobbyCard'
-import { Checkbox } from '@nextui-org/react'
+import { Checkbox, Pagination } from '@nextui-org/react'
 
 // use google font
 const montserrat = Montserrat({ subsets: ['latin'] })
@@ -19,6 +19,7 @@ const fetcher = (url: any) => fetch(url).then((res) => res.json());
 
 export default function Home() {
   const [ filter, setFilter ] = useState(false);
+  const [ pageNum, setPageNum ] = useState(1);
 
   //Set up SWR to run the fetcher function when calling "/api/staticdata"
   //There are 3 possible states: (1) loading when data is null (2) ready when the data is returned (3) error when there was an error fetching the data
@@ -30,7 +31,9 @@ export default function Home() {
   // Handle the loading state
   if (!data) return <LoadingScreen />
 
-  const lobbyList = data;
+  const pageSize = 20;
+  const totalPage = Math.ceil(data.length / pageSize);
+  const lobbyList = filter === true ? data : data.slice(pageNum * pageSize - pageSize, pageNum * pageSize);
 
   return (
     <>
@@ -47,7 +50,7 @@ export default function Home() {
               lobbyList
                 .filter((item: ILobbyCard) => {
                   if (filter === true) {
-                    if (item.update === true) return item
+                    if (item.update === true) return item;
                   }
                   else {
                     return item
@@ -66,6 +69,9 @@ export default function Home() {
                   />
                 ))
             }
+          </div>
+          <div className='flex flex-row justify-center items-center my-5'>
+            <Pagination total={totalPage} initialPage={1} page={pageNum} onChange={(page: number) => setPageNum(page)} />
           </div>
         <Footer />
       </main>
