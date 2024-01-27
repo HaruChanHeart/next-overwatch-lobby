@@ -1,0 +1,132 @@
+{
+    "lobbyList": [
+        {
+            "name": "D.Va",
+            "description": "설날 (2020)"
+        },
+        {
+            "name": "오버워치 월드컵",
+            "description": "월드컵 이벤트"
+        },
+        {
+            "name": "오버워치 리그",
+            "description": "미사용 장면 (음악 없음)"
+        },
+        {
+            "name": "큐피드 한조",
+            "description": "3시즌 - 러브워치 이벤트"
+        },
+        {
+            "name": "하계 스포츠 대회",
+            "description": "5시즌 - 하계 스포츠 대회 이벤트"
+        },
+        {
+            "name": "소전",
+            "description": "PvP 베타 (2022)"
+        },
+        {
+            "name": "정크랫과 로드호그",
+            "description": "환상의 겨울나라 (2020)"
+        },
+        {
+            "name": "메이",
+            "description": "설날 (2023)"
+        },
+        {
+            "name": "새로운 팀",
+            "description": "알파 테스트 (2022)"
+        },
+        {
+            "name": "원펀맨",
+            "description": "3시즌 - 원펀맨 이벤트"
+        },
+        {
+            "name": "키리코",
+            "description": "1시즌 - 키리코 출시"
+        },
+        {
+            "name": "메인 메뉴",
+            "description": "1시즌 - 메뉴"
+        },
+        {
+            "name": "샴발리 수도원",
+            "description": "2시즌 - 샴발리 수도원"
+        },
+        {
+            "name": "제우스",
+            "description": "2시즌 - 신화 스킨"
+        },
+        {
+            "name": "라마트라",
+            "description": "2시즌 - 라마트라 출시"
+        },
+        {
+            "name": "아마테라스",
+            "description": "3시즌 - 신화 스킨"
+        },
+        {
+            "name": "아마테라스 (영상)",
+            "description": "3시즌 - 신화 스킨"
+        },
+        {
+            "name": "메인 메뉴 (리그)",
+            "description": "리그 스킨 버전 메인 메뉴"
+        },
+        {
+            "name": "은하계 황제",
+            "description": "4시즌 - 신화 스킨"
+        },
+        {
+            "name": "남극 반도",
+            "description": "4시즌 - 남극 반도"
+        },
+        {
+            "name": "라이프위버",
+            "description": "4시즌 - 라이프위버 출시"
+        },
+        {
+            "name": "퀘스트워치",
+            "description": "5시즌 - 퀘스트워치"
+        },
+        {
+            "name": "A-7000 워갓",
+            "description": "6시즌 - 신화 스킨"
+        },
+        {
+            "name": "침공",
+            "description": "6시즌 - 침공"
+        },
+        {
+            "name": "일리아리",
+            "description": "6시즌 - 일리아리 출시"
+        },
+        {
+            "name": "원령",
+            "description": "7시즌 - 신화 스킨"
+        },
+        {
+            "name": "원령 (일러스트)",
+            "description": "7시즌 - 신화 스킨"
+        },
+        {
+            "name": "드리우는 어둠",
+            "description": "7시즌 - 드리우는 어둠"
+        },
+        {
+            "name": "LE SSERAFIM",
+            "description": "7시즌 - LE SSERAFIM 이벤트"
+        },
+        {
+            "name": "위대한 야수",
+            "description": "8시즌 - 신화 스킨"
+        },
+        {
+            "name": "마우가",
+            "description": "8시즌 - 마우가 출시"
+        },
+        {
+            "name": "환상의 겨울나라 (2023)",
+            "description": "8시즌 - 환상의 겨울나라"
+        }
+    ]
+}

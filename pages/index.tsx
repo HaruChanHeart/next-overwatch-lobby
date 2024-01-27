@@ -19,7 +19,7 @@ const fetcher = (url: any) => fetch(url).then((res) => res.json());
 export const getServerSideProps: GetServerSideProps = async (ctx) => {
   return {
     props: {
-      ...(await serverSideTranslations(ctx.locale ?? 'en', ['common', 'guide']))
+      ...(await serverSideTranslations(ctx.locale ?? 'en', ['common', 'guide', 'lobby']))
     }
   }
 }
