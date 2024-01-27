@@ -12,11 +12,14 @@
     "@nextui-org/react": "^2.2.9",
     "@types/react-copy-to-clipboard": "^5.0.7",
     "framer-motion": "^10.18.0",
+    "i18next": "^23.7.20",
     "next": "14.0.4",
+    "next-i18next": "^15.2.0",
     "next-themes": "^0.2.1",
     "react": "^18",
     "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "^18",
+    "react-i18next": "^14.0.1",
     "swr": "^2.2.4"
   },
   "devDependencies": {

@@ -11,7 +11,7 @@
     {
         "id": 2,
         "image": "OverwatchWorldCup",
-        "name": "Overwatch World Cub",
+        "name": "Overwatch World Cup",
         "description": "World Cup Event",
         "code": "817",
         "available": true,
@@ -261,7 +261,7 @@
         "update": false
     },
     {
-        "id": 31,
+        "id": 30,
         "image": "S8_Orisa",
         "name": "Grand Beast",
         "description": "Season 8 - Mythic Skin",
@@ -270,7 +270,7 @@
         "update": true
     },
     {
-        "id": 32,
+        "id": 31,
         "image": "S8_Mauga",
         "name": "Mauga",
         "description": "Season 8 - Mauga Release",
@@ -279,7 +279,7 @@
         "update": true
     },
     {
-        "id": 33,
+        "id": 32,
         "image": "S8_Winter",
         "name": "Winter Wonderland (2023)",
         "description": "Season 8 - Winter Wonderland",

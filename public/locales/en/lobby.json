@@ -1,0 +1,132 @@
+{
+    "lobbyList": [
+        {
+            "name": "D.Va",
+            "description": "Lunar New Year (2020)"
+        },
+        {
+            "name": "Overwatch World Cup",
+            "description": "World Cup Event"
+        },
+        {
+            "name": "Overwatch League",
+            "description": "Unused scene (No Music)"
+        },
+        {
+            "name": "Cupid Hanzo",
+            "description": "Season 3 - Loverwatch Event"
+        },
+        {
+            "name": "Summer Games",
+            "description": "Season 5 - Summer Games Event"
+        },
+        {
+            "name": "Sojourn",
+            "description": "PvP Beta (2022)"
+        },
+        {
+            "name": "Junkrat, Roadhog",
+            "description": "Winter Wonderland (2020)"
+        },
+        {
+            "name": "Mei",
+            "description": "Lunar New Year (2023)"
+        },
+        {
+            "name": "New Team",
+            "description": "Alpha Test (2022)"
+        },
+        {
+            "name": "One Punch Man",
+            "description": "Season 3 - One Punch Man Event"
+        },
+        {
+            "name": "Kiriko",
+            "description": "Season 1 - Kiriko Release"
+        },
+        {
+            "name": "Main Menu",
+            "description": "Season 1 - Menu"
+        },
+        {
+            "name": "Shambali Monastery",
+            "description": "Season 2 - Shambali Monastery"
+        },
+        {
+            "name": "Zeus",
+            "description": "Season 2 - Mythic Skin"
+        },
+        {
+            "name": "Ramattra",
+            "description": "Season 2 - Ramattra Release"
+        },
+        {
+            "name": "Amaterasu",
+            "description": "Season 3 - Mythic Skin"
+        },
+        {
+            "name": "Amaterasu (Video)",
+            "description": "Season 3 - Mythic Skin"
+        },
+        {
+            "name": "Main Menu (League)",
+            "description": "Main Menu with League Skin"
+        },
+        {
+            "name": "Galactic Emperor",
+            "description": "Season 4 - Mythic Skin"
+        },
+        {
+            "name": "Antarctic Peninsula",
+            "description": "Season 4 - Antarctic Peninsula"
+        },
+        {
+            "name": "Lifeweaver",
+            "description": "Season 4 - Lifeweaver Release"
+        },
+        {
+            "name": "Questwatch",
+            "description": "Season 5 - Questwatch"
+        },
+        {
+            "name": "A-7000 Wargod",
+            "description": "Season 6 - Mythic Skin"
+        },
+        {
+            "name": "Invasion",
+            "description": "Season 6 - Invasion"
+        },
+        {
+            "name": "Illari",
+            "description": "Season 6 - Illari Release"
+        },
+        {
+            "name": "Onryou",
+            "description": "Season 7 - Mythic Skin"
+        },
+        {
+            "name": "Onryou (Illust)",
+            "description": "Season 7 - Mythic Skin"
+        },
+        {
+            "name": "Rise of the Darkness",
+            "description": "Season 7 - Rise of the Darkness"
+        },
+        {
+            "name": "LE SSERAFIM",
+            "description": "Season 7 - LE SSERAFIM Event"
+        },
+        {
+            "name": "Grand Beast",
+            "description": "Season 8 - Mythic Skin"
+        },
+        {
+            "name": "Mauga",
+            "description": "Season 8 - Mauga Release"
+        },
+        {
+            "name": "Winter Wonderland (2023)",
+            "description": "Season 8 - Winter Wonderland"
+        }
+    ]
+}
