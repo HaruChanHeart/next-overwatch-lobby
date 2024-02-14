@@ -78,7 +78,7 @@
         },
         {
             "name": "Antarctic Peninsula",
-            "description": "Season 4 - Antarctic Peninsula"
+            "description": "Season 3 - Antarctic Peninsula"
         },
         {
             "name": "Lifeweaver",
@@ -127,6 +127,10 @@
         {
             "name": "Winter Wonderland (2023)",
             "description": "Season 8 - Winter Wonderland"
+        },
+        {
+            "name": "Ancient Caller",
+            "description": "Season 9 - Mythic Skin"
         }
     ]
 }

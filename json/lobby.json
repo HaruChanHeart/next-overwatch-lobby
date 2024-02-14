@@ -86,7 +86,7 @@
         "name": "One Punch Man",
         "description": "Season 3 - One Punch Man Event",
         "code": "EED",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -95,7 +95,7 @@
         "name": "Kiriko",
         "description": "Season 1 - Kiriko Release",
         "code": "EF3",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -113,7 +113,7 @@
         "name": "Shambali Monastery",
         "description": "Season 2 - Shambali Monastery",
         "code": "F31",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -122,7 +122,7 @@
         "name": "Zeus",
         "description": "Season 2 - Mythic Skin",
         "code": "F4A",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -131,7 +131,7 @@
         "name": "Ramattra",
         "description": "Season 2 - Ramattra Release",
         "code": "F8F",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -140,7 +140,7 @@
         "name": "Amaterasu",
         "description": "Season 3 - Mythic Skin",
         "code": "1003",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -149,7 +149,7 @@
         "name": "Amaterasu (Video)",
         "description": "Season 3 - Mythic Skin",
         "code": "1045",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -174,9 +174,9 @@
         "id": 20,
         "image": "S4_AntarcticPeninsula",
         "name": "Antarctic Peninsula",
-        "description": "Season 4 - Antarctic Peninsula",
+        "description": "Season 3 - Antarctic Peninsula",
         "code": "103D",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -185,7 +185,7 @@
         "name": "Lifeweaver",
         "description": "Season 4 - Lifeweaver Release",
         "code": "1060",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -194,7 +194,7 @@
         "name": "Questwatch",
         "description": "Season 5 - Questwatch",
         "code": "1033",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -203,7 +203,7 @@
         "name": "A-7000 Wargod",
         "description": "Season 6 - Mythic Skin",
         "code": "10F2",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -221,7 +221,7 @@
         "name": "Illari",
         "description": "Season 6 - Illari Release",
         "code": "102B",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -230,7 +230,7 @@
         "name": "Onryou",
         "description": "Season 7 - Mythic Skin",
         "code": "1150",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -239,7 +239,7 @@
         "name": "Onryou (Illust)",
         "description": "Season 7 - Mythic Skin",
         "code": "10AC",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -248,7 +248,7 @@
         "name": "Rise of the Darkness",
         "description": "Season 7 - Rise of the Darkness",
         "code": "115C",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -257,7 +257,7 @@
         "name": "LE SSERAFIM",
         "description": "Season 7 - LE SSERAFIM Event",
         "code": "1173",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -266,8 +266,8 @@
         "name": "Grand Beast",
         "description": "Season 8 - Mythic Skin",
         "code": "1197",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 31,
@@ -275,8 +275,8 @@
         "name": "Mauga",
         "description": "Season 8 - Mauga Release",
         "code": "118A",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 32,
@@ -284,6 +284,15 @@
         "name": "Winter Wonderland (2023)",
         "description": "Season 8 - Winter Wonderland",
         "code": "11B4",
+        "available": false,
+        "update": false
+    },
+    {
+        "id": 33,
+        "image": "S9_Moira",
+        "name": "Ancient Caller",
+        "description": "Season 9 - Mythic Skin",
+        "code": "1200",
         "available": true,
         "update": true
     }
