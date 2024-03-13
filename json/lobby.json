@@ -295,5 +295,14 @@
         "code": "1200",
         "available": true,
         "update": true
+    },
+    {
+        "id": 34,
+        "image": "S9_CowboyBebop",
+        "name": "Cowboy Bebop",
+        "description": "Season 9 - Cowboy Bebop Event",
+        "code": "1202",
+        "available": true,
+        "update": true
     }
 ]
