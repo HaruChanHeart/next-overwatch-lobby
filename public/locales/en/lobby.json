@@ -135,6 +135,14 @@
         {
             "name": "Cowboy Bebop",
             "description": "Season 9 - Cowboy Bebop Event"
+        },
+        {
+            "name": "Venture Forth",
+            "description": "Season 10 - Venture Forth"
+        },
+        {
+            "name": "Mirrorwatch",
+            "description": "Season 10 - Mirrorwatch Event"
         }
     ]
 }

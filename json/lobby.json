@@ -294,7 +294,7 @@
         "description": "Season 9 - Mythic Skin",
         "code": "1200",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 34,
@@ -302,6 +302,24 @@
         "name": "Cowboy Bebop",
         "description": "Season 9 - Cowboy Bebop Event",
         "code": "1202",
+        "available": false,
+        "update": false
+    },
+    {
+        "id": 35,
+        "image": "S10_VentureForth",
+        "name": "Venture Forth",
+        "description": "Season 10 - Venture Forth",
+        "code": "121A",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 36,
+        "image": "S10_Mirrorwatch",
+        "name": "Mirrorwatch",
+        "description": "Season 10 - Mirrorwatch Event",
+        "code": "121E",
         "available": true,
         "update": true
     }

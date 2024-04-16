@@ -20,7 +20,7 @@ export default function LobbyCard(prop: ILobbyCard) {
                 loading='lazy'
                 removeWrapper
                 alt={prop.name}
-                className="z-0 w-full h-full object-cover"
+                className={`z-0 w-full h-full object-cover${prop.available ? `` : ` opacity-25`}`}
                 src={`https://raw.githubusercontent.com/HaruChanHeart/next-overwatch-lobby/main/public/images/lobby/${prop.image}.avif`}
             />
             {prop.update ? <Chip variant='bordered' color='warning' radius='sm' className='absolute top-3 left-3 bg-black/75'>UPDATE</Chip> : null }
