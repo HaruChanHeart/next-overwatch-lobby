@@ -322,5 +322,14 @@
         "code": "121E",
         "available": true,
         "update": true
+    },
+    {
+        "id": 37,
+        "image": "S10_MirrorwatchIllust",
+        "name": "Mirrorwatch (Illust)",
+        "description": "Season 10 - Mirrorwatch Event",
+        "code": "10AC",
+        "available": true,
+        "update": true
     }
 ]

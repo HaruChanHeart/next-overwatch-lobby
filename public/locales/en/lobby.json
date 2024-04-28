@@ -143,6 +143,10 @@
         {
             "name": "Mirrorwatch",
             "description": "Season 10 - Mirrorwatch Event"
+        },
+        {
+            "name": "Mirrorwatch (Illust)",
+            "description": "Season 10 - Mirrorwatch Event"
         }
     ]
 }
