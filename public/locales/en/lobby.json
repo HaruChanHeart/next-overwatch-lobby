@@ -151,6 +151,22 @@
         {
             "name": "Porsche",
             "description": "Season 10 - Porsche Event"
+        },
+        {
+            "name": "Calamity Empress",
+            "description": "Season 11 - Mythic Skin"
+        },
+        {
+            "name": "Cyber Demon Genji (Red)",
+            "description": "Season 1 - Mythic Skin"
+        },
+        {
+            "name": "Cyber Demon Genji (Green)",
+            "description": "Season 1 - Mythic Skin"
+        },
+        {
+            "name": "Cyber Demon Genji (Pink)",
+            "description": "Season 1 - Mythic Skin"
         }
     ]
 }

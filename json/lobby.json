@@ -312,7 +312,7 @@
         "description": "Season 10 - Venture Forth",
         "code": "121A",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 36,
@@ -321,7 +321,7 @@
         "description": "Season 10 - Mirrorwatch Event",
         "code": "121E",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 37,
@@ -330,7 +330,7 @@
         "description": "Season 10 - Mirrorwatch Event",
         "code": "10AC",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 38,
@@ -338,6 +338,42 @@
         "name": "Porsche",
         "description": "Season 10 - Porsche Event",
         "code": "1219",
+        "available": true,
+        "update": false
+    },
+    {
+        "id": 39,
+        "image": "S11_Tokusatsu",
+        "name": "Calamity Empress",
+        "description": "Season 11 - Mythic Skin",
+        "code": "123F",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 40,
+        "image": "S1_GenjiRed",
+        "name": "Cyber Demon Genji (Red)",
+        "description": "Season 1 - Mythic Skin",
+        "code": "EFA",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 41,
+        "image": "S1_GenjiGreen",
+        "name": "Cyber Demon Genji (Green)",
+        "description": "Season 1 - Mythic Skin",
+        "code": "F11",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 42,
+        "image": "S1_GenjiPink",
+        "name": "Cyber Demon Genji (Pink)",
+        "description": "Season 1 - Mythic Skin",
+        "code": "F12",
         "available": true,
         "update": true
     }

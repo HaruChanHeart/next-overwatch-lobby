@@ -81,7 +81,7 @@ export default function Home() {
             }
           </div>
           <div className='flex flex-row justify-center items-center my-5'>
-            <Pagination total={totalPage} initialPage={1} page={pageNum} onChange={(page: number) => setPageNum(page)} />
+            {filter ? null : <Pagination total={totalPage} initialPage={1} page={pageNum} onChange={(page: number) => setPageNum(page)} />}
           </div>
         <Footer />
       </main>
