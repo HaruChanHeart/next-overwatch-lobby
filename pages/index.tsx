@@ -25,8 +25,8 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 }
 
 export default function Home() {
-  const [ filter, setFilter ] = useState(false);
-  const [ pageNum, setPageNum ] = useState(1);
+  const [filter, setFilter] = useState(false);
+  const [pageNum, setPageNum] = useState(1);
 
   // get translation file
   const { t } = useTranslation('common');
@@ -43,7 +43,10 @@ export default function Home() {
 
   const pageSize = 20;
   const totalPage = Math.ceil(data.length / pageSize);
-  const lobbyList = filter === true ? data : data.slice(pageNum * pageSize - pageSize, pageNum * pageSize);
+  const sorted = data.sort((a: ILobbyCard, b: ILobbyCard) => {
+    return (a.available === b.available)? 0 : a.available ? -1 : 1;
+  });
+  const lobbyList = filter === true ? sorted : sorted.slice(pageNum * pageSize - pageSize, pageNum * pageSize);
 
   return (
     <>
@@ -52,37 +55,33 @@ export default function Home() {
       </Head>
       <main className={`container mx-auto max-w-7xl pt-16 px-6 flex-grow`}>
         <Header />
-          <div className='flex flex-row justify-start items-center my-5'>
-            <Checkbox onValueChange={setFilter}>{t('update_visible')}</Checkbox>
-          </div>
-          <div className='grid grid-cols-1 md:grid-cols-2 gap-5'>
-            {
-              lobbyList
-                .filter((item: ILobbyCard) => {
-                  if (filter === true) {
-                    if (item.update === true) return item;
-                  }
-                  else {
-                    return item
-                  }
-                })
-                .map((item: ILobbyCard) => (
-                  <LobbyCard
-                    key={item.id}
-                    id={item.id}
-                    image={item.image}
-                    name={item.name}
-                    description={item.description}
-                    code={item.code}
-                    available={item.available}
-                    update={item.update}
-                  />
-                ))
-            }
-          </div>
-          <div className='flex flex-row justify-center items-center my-5'>
-            {filter ? null : <Pagination total={totalPage} initialPage={1} page={pageNum} onChange={(page: number) => setPageNum(page)} />}
-          </div>
+        <div className='flex flex-row justify-start items-center my-5'>
+          <Checkbox onValueChange={setFilter}>{t('update_visible')}</Checkbox>
+        </div>
+        <div className='grid grid-cols-1 md:grid-cols-2 gap-5'>
+          {
+            lobbyList
+              .filter((item: ILobbyCard) => {
+                if (filter === true) { if (item.update === true) return item; }
+                else return item
+              })
+              .map((item: ILobbyCard) => (
+                <LobbyCard
+                  key={item.id}
+                  id={item.id}
+                  image={item.image}
+                  name={item.name}
+                  description={item.description}
+                  code={item.code}
+                  available={item.available}
+                  update={item.update}
+                />
+              ))
+          }
+        </div>
+        <div className='flex flex-row justify-center items-center my-5'>
+          {filter ? null : <Pagination total={totalPage} initialPage={1} page={pageNum} onChange={(page: number) => setPageNum(page)} />}
+        </div>
         <Footer />
       </main>
     </>
