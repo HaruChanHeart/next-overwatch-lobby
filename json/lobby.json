@@ -376,5 +376,14 @@
         "code": "F12",
         "available": true,
         "update": true
+    },
+    {
+        "id": 43,
+        "image": "S11_PinkMercy",
+        "name": "Rose Gold Mercy",
+        "description": "Season 11 - BCRF Funding Event",
+        "code": "8BA",
+        "available": true,
+        "update": true
     }
 ]
