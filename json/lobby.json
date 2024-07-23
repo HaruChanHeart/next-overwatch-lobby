@@ -394,5 +394,14 @@
         "code": "1243",
         "available": true,
         "update": true
+    },
+    {
+        "id": 45,
+        "image": "S11_Reinhardt_MythicWeapon",
+        "name": "Bound Demon",
+        "description": "Season 11 - Mythic Weapon",
+        "code": "124A",
+        "available": true,
+        "update": true
     }
 ]
