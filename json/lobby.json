@@ -403,5 +403,14 @@
         "code": "124A",
         "available": true,
         "update": true
+    },
+    {
+        "id": 46,
+        "image": "S11_Lifeguard",
+        "name": "Lifeguard",
+        "description": "Season 11 - Lifeguard Skin Release",
+        "code": "1249",
+        "available": true,
+        "update": true
     }
 ]
