@@ -183,6 +183,14 @@
         {
             "name": "Lifeguard",
             "description": "Season 11 - Lifeguard Skin Release"
+        },
+        {
+            "name": "Juno",
+            "description": "Season 12 - Juno Release"
+        },
+        {
+            "name": "Anubis",
+            "description": "Season 12 - Mythic Skin"
         }
     ]
 }

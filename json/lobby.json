@@ -348,7 +348,7 @@
         "description": "Season 11 - Mythic Skin",
         "code": "123F",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 40,
@@ -357,7 +357,7 @@
         "description": "Season 1 - Mythic Skin",
         "code": "EFA",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 41,
@@ -366,7 +366,7 @@
         "description": "Season 1 - Mythic Skin",
         "code": "F11",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 42,
@@ -375,7 +375,7 @@
         "description": "Season 1 - Mythic Skin",
         "code": "F12",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 43,
@@ -384,7 +384,7 @@
         "description": "Season 11 - BCRF Funding Event",
         "code": "8BA",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 44,
@@ -393,7 +393,7 @@
         "description": "Season 11 - Transformers Event",
         "code": "1243",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 45,
@@ -402,7 +402,7 @@
         "description": "Season 11 - Mythic Weapon",
         "code": "124A",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 46,
@@ -410,6 +410,24 @@
         "name": "Lifeguard",
         "description": "Season 11 - Lifeguard Skin Release",
         "code": "1249",
+        "available": true,
+        "update": false
+    },
+    {
+        "id": 47,
+        "image": "S12_Juno",
+        "name": "Juno",
+        "description": "Season 12 - Juno Release",
+        "code": "1276",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 48,
+        "image": "S12_AnubisReaper",
+        "name": "Anubis",
+        "description": "Season 12 - Mythic Skin",
+        "code": "1277",
         "available": true,
         "update": true
     }
