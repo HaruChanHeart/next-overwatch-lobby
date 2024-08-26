@@ -347,7 +347,7 @@
         "name": "Calamity Empress",
         "description": "Season 11 - Mythic Skin",
         "code": "123F",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -392,7 +392,7 @@
         "name": "Transformers",
         "description": "Season 11 - Transformers Event",
         "code": "1243",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
