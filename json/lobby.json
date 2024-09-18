@@ -430,5 +430,14 @@
         "code": "1277",
         "available": true,
         "update": true
+    },
+    {
+        "id": 49,
+        "image": "S12_Sylvanas",
+        "name": "Sylvanas",
+        "description": "Season 12 - WoW Event",
+        "code": "1293",
+        "available": true,
+        "update": true
     }
 ]
