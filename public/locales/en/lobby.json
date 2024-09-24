@@ -195,6 +195,10 @@
         {
             "name": "Sylvanas",
             "description": "Season 12 - WoW Event"
+        },
+        {
+            "name": "Midnight Sun",
+            "description": "Season 12 - Mythic Weapon"
         }
     ]
 }

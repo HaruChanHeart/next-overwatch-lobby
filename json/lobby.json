@@ -439,5 +439,14 @@
         "code": "1293",
         "available": true,
         "update": true
+    },
+    {
+        "id": 49,
+        "image": "S12_MythicWeapon",
+        "name": "Midnight Sun",
+        "description": "Season 12 - Mythic Weapon",
+        "code": "1289",
+        "available": true,
+        "update": true
     }
 ]
