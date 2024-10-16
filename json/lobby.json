@@ -420,7 +420,7 @@
         "description": "Season 12 - Juno Release",
         "code": "1276",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 48,
@@ -429,7 +429,7 @@
         "description": "Season 12 - Mythic Skin",
         "code": "1277",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 49,
@@ -438,7 +438,7 @@
         "description": "Season 12 - WoW Event",
         "code": "1293",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 50,
@@ -446,6 +446,15 @@
         "name": "Midnight Sun",
         "description": "Season 12 - Mythic Weapon",
         "code": "1289",
+        "available": true,
+        "update": false
+    },
+    {
+        "id": 51,
+        "image": "S13_Witch",
+        "name": "Spellbinder",
+        "description": "Season 13 - Mythic Skin",
+        "code": "12A5",
         "available": true,
         "update": true
     }
