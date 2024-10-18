@@ -138,7 +138,7 @@
         },
         {
             "name": "Venture Forth",
-            "description": "Season 10 - Venture Forth"
+            "description": "Season 10 - Venture Release"
         },
         {
             "name": "Mirrorwatch",
@@ -203,6 +203,10 @@
         {
             "name": "Spellbinder",
             "description": "Season 13 - Mythic Skin"
+        },
+        {
+            "name": "My Hero Academia",
+            "description": "Season 13 - MHA Event"
         }
     ]
 }

@@ -457,5 +457,14 @@
         "code": "12A5",
         "available": true,
         "update": true
+    },
+    {
+        "id": 52,
+        "image": "S13_MyHeroAcademia",
+        "name": "My Hero Academia",
+        "description": "Season 13 - MHA Event",
+        "code": "12A4",
+        "available": true,
+        "update": true
     }
 ]
