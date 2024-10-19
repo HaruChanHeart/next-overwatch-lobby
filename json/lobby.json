@@ -419,7 +419,7 @@
         "name": "Juno",
         "description": "Season 12 - Juno Release",
         "code": "1276",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
