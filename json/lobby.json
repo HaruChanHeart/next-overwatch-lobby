@@ -356,7 +356,7 @@
         "name": "Cyber Demon Genji (Red)",
         "description": "Season 1 - Mythic Skin",
         "code": "EFA",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -365,7 +365,7 @@
         "name": "Cyber Demon Genji (Green)",
         "description": "Season 1 - Mythic Skin",
         "code": "F11",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -374,7 +374,7 @@
         "name": "Cyber Demon Genji (Pink)",
         "description": "Season 1 - Mythic Skin",
         "code": "F12",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
