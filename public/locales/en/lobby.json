@@ -207,6 +207,18 @@
         {
             "name": "My Hero Academia",
             "description": "Season 13 - MHA Event"
+        },
+        {
+            "name": "Overwatch: Classic",
+            "description": "Season 13 - Classic Mode Release"
+        },
+        {
+            "name": "Neon Streets",
+            "description": "Season 13 - OWCS Finals"
+        },
+        {
+            "name": "Deliverance",
+            "description": "Season 13 - Mythic Weapon"
         }
     ]
 }

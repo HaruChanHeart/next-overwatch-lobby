@@ -466,5 +466,32 @@
         "code": "12A4",
         "available": true,
         "update": true
+    },
+    {
+        "id": 53,
+        "image": "S13_OWClassic",
+        "name": "Overwatch: Classic",
+        "description": "Season 13 - Classic Mode Release",
+        "code": "12C2",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 54,
+        "image": "S13_OWCS",
+        "name": "Neon Streets",
+        "description": "Season 13 - OWCS Finals",
+        "code": "12A3",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 55,
+        "image": "S13_MythicWeapon",
+        "name": "Deliverance",
+        "description": "Season 13 - Mythic Weapon",
+        "code": "12BE",
+        "available": true,
+        "update": true
     }
 ]
