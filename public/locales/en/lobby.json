@@ -219,6 +219,18 @@
         {
             "name": "Deliverance",
             "description": "Season 13 - Mythic Weapon"
+        },
+        {
+            "name": "Hazard",
+            "description": "Season 14 - Hazard Release"
+        },
+        {
+            "name": "Thor",
+            "description": "Season 14 - Mythic Skin"
+        },
+        {
+            "name": "Avatar: The Last Airbender",
+            "description": "Season 14 - ATLA Collab"
         }
     ]
 }

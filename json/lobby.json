@@ -456,7 +456,7 @@
         "description": "Season 13 - Mythic Skin",
         "code": "12A5",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 52,
@@ -465,7 +465,7 @@
         "description": "Season 13 - MHA Event",
         "code": "12A4",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 53,
@@ -474,7 +474,7 @@
         "description": "Season 13 - Classic Mode Release",
         "code": "12C2",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 54,
@@ -483,7 +483,7 @@
         "description": "Season 13 - OWCS Finals",
         "code": "12A3",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 55,
@@ -491,6 +491,33 @@
         "name": "Deliverance",
         "description": "Season 13 - Mythic Weapon",
         "code": "12BE",
+        "available": true,
+        "update": false
+    },
+    {
+        "id": 56,
+        "image": "S14_Hazard",
+        "name": "Hazard",
+        "description": "Season 14 - Hazard Release",
+        "code": "12C6",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 57,
+        "image": "S14_Thor",
+        "name": "Thor",
+        "description": "Season 14 - Mythic Skin",
+        "code": "12C7",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 58,
+        "image": "S14_ATLA",
+        "name": "Avatar: The Last Airbender",
+        "description": "Season 14 - ATLA Collab",
+        "code": "12CA",
         "available": true,
         "update": true
     }
