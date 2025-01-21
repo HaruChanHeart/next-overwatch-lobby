@@ -520,5 +520,23 @@
         "code": "12CA",
         "available": true,
         "update": true
+    },
+    {
+        "id": 59,
+        "image": "S14_MythicWeapon",
+        "name": "Lead Rose",
+        "description": "Season 14 - Mythic Weapon",
+        "code": "12CB",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 60,
+        "image": "S14_Celestial",
+        "name": "Celestial",
+        "description": "Season 14 - Celestial Skin Release",
+        "code": "1300",
+        "available": true,
+        "update": true
     }
 ]
