@@ -209,7 +209,7 @@
             "description": "Season 13 - MHA Event"
         },
         {
-            "name": "Overwatch: Classic",
+            "name": "Overwatch: Classic (Illust)",
             "description": "Season 13 - Classic Mode Release"
         },
         {
@@ -239,6 +239,10 @@
         {
             "name": "Celestial",
             "description": "Season 14 - Celestial Skin Release"
+        },
+        {
+            "name": "Overwatch: Classic",
+            "description": "Season 14 - Classic Mode Release"
         }
     ]
 }

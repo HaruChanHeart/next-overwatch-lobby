@@ -470,7 +470,7 @@
     {
         "id": 53,
         "image": "S13_OWClassic",
-        "name": "Overwatch: Classic",
+        "name": "Overwatch: Classic (Illust)",
         "description": "Season 13 - Classic Mode Release",
         "code": "12C2",
         "available": true,
@@ -536,6 +536,15 @@
         "name": "Celestial",
         "description": "Season 14 - Celestial Skin Release",
         "code": "1300",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 61,
+        "image": "S14_ClassicV2",
+        "name": "Overwatch: Classic",
+        "description": "Season 14 - Classic Mode Release",
+        "code": "12BA",
         "available": true,
         "update": true
     }
