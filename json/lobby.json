@@ -464,7 +464,7 @@
         "name": "My Hero Academia",
         "description": "Season 13 - MHA Event",
         "code": "12A4",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -501,7 +501,7 @@
         "description": "Season 14 - Hazard Release",
         "code": "12C6",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 57,
@@ -509,8 +509,8 @@
         "name": "Thor",
         "description": "Season 14 - Mythic Skin",
         "code": "12C7",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 58,
@@ -519,7 +519,7 @@
         "description": "Season 14 - ATLA Collab",
         "code": "12CA",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 59,
@@ -528,7 +528,7 @@
         "description": "Season 14 - Mythic Weapon",
         "code": "12CB",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 60,
@@ -537,14 +537,32 @@
         "description": "Season 14 - Celestial Skin Release",
         "code": "1300",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 61,
         "image": "S14_ClassicV2",
-        "name": "Overwatch: Classic",
+        "name": "Overwatch: Classic (Unused)",
         "description": "Season 14 - Classic Mode Release",
         "code": "12BA",
+        "available": true,
+        "update": false
+    },
+    {
+        "id": 62,
+        "image": "S15_Pixiu",
+        "name": "Pixiu",
+        "description": "Season 15 - Mythic Skin",
+        "code": "1316",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 63,
+        "image": "S15_ReturnToChina",
+        "name": "Return to China",
+        "description": "Season 15 - China Server Release",
+        "code": "1317",
         "available": true,
         "update": true
     }

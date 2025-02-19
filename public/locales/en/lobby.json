@@ -241,8 +241,16 @@
             "description": "Season 14 - Celestial Skin Release"
         },
         {
-            "name": "Overwatch: Classic",
+            "name": "Overwatch: Classic (Unused)",
             "description": "Season 14 - Classic Mode Release"
+        },
+        {
+            "name": "Pixiu",
+            "description": "Season 15 - Mythic Skin"
+        },
+        {
+            "name": "Return to China",
+            "description": "Season 15 - China Server Release"
         }
     ]
 }
