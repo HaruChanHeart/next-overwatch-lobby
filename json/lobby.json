@@ -565,5 +565,32 @@
         "code": "1317",
         "available": true,
         "update": true
+    },
+    {
+        "id": 64,
+        "image": "S15_MythicWeapon",
+        "name": "Dame Chance",
+        "description": "Season 15 - Mythic Weapon",
+        "code": "132D",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 65,
+        "image": "S15_EmberJuno",
+        "name": "Ember",
+        "description": "Season 15 - OWCS Clash Event",
+        "code": "132F",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 66,
+        "image": "S15_LeSSerafim",
+        "name": "LE SSERAFIM",
+        "description": "Season 15 - LE SSERAFIM Collab",
+        "code": "1331",
+        "available": true,
+        "update": true
     }
 ]

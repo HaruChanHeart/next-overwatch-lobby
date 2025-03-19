@@ -251,6 +251,18 @@
         {
             "name": "Return to China",
             "description": "Season 15 - China Server Release"
+        },
+        {
+            "name": "Dame Chance",
+            "description": "Season 15 - Mythic Weapon"
+        },
+        {
+            "name": "Ember",
+            "description": "Season 15 - OWCS Clash Event"
+        },
+        {
+            "name": "LE SSERAFIM",
+            "description": "Season 15 - LE SSERAFIM Collab"
         }
     ]
 }

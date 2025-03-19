@@ -251,6 +251,18 @@
         {
             "name": "고향",
             "description": "15시즌 - 중국 서버 출시"
+        },
+        {
+            "name": "행운의 여신",
+            "description": "15시즌 - 신화 무기 스킨"
+        },
+        {
+            "name": "불씨",
+            "description": "15시즌 - OWCS 격돌 이벤트"
+        },
+        {
+            "name": "LE SSERAFIM",
+            "description": "15시즌 - LE SSERAFIM 이벤트"
         }
     ]
 }
