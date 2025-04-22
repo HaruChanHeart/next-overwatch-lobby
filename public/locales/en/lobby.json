@@ -263,6 +263,14 @@
         {
             "name": "LE SSERAFIM",
             "description": "Season 15 - LE SSERAFIM Collab"
+        },
+        {
+            "name": "Stadium",
+            "description": "Season 16 - Stadium Release"
+        },
+        {
+            "name": "Freja",
+            "description": "Season 16 - Freja Release"
         }
     ]
 }

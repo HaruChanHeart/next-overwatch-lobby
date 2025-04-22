@@ -263,6 +263,14 @@
         {
             "name": "LE SSERAFIM",
             "description": "15시즌 - LE SSERAFIM 이벤트"
+        },
+        {
+            "name": "스타디움",
+            "description": "16시즌 - 스타디움 출시"
+        },
+        {
+            "name": "프레야",
+            "description": "16시즌 - 프레야 출시"
         }
     ]
 }

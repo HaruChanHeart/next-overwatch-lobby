@@ -555,7 +555,7 @@
         "description": "Season 15 - Mythic Skin",
         "code": "1316",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 63,
@@ -564,7 +564,7 @@
         "description": "Season 15 - China Server Release",
         "code": "1317",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 64,
@@ -573,7 +573,7 @@
         "description": "Season 15 - Mythic Weapon",
         "code": "132D",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 65,
@@ -582,7 +582,7 @@
         "description": "Season 15 - OWCS Clash Event",
         "code": "132F",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 66,
@@ -590,6 +590,24 @@
         "name": "LE SSERAFIM",
         "description": "Season 15 - LE SSERAFIM Collab",
         "code": "1331",
+        "available": true,
+        "update": false
+    },
+    {
+        "id": 67,
+        "image": "S16_Stadium",
+        "name": "Stadium",
+        "description": "Season 16 - Stadium Release",
+        "code": "1346",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 68,
+        "image": "S16_Freja",
+        "name": "Freja",
+        "description": "Season 16 - Freja Release",
+        "code": "1347",
         "available": true,
         "update": true
     }
