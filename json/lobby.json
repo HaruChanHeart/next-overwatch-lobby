@@ -610,5 +610,14 @@
         "code": "1347",
         "available": true,
         "update": true
+    },
+    {
+        "id": 69,
+        "image": "S16_GundamW",
+        "name": "Gundam W",
+        "description": "Season 16 - Gundam W Event",
+        "code": "1348",
+        "available": true,
+        "update": true
     }
 ]
