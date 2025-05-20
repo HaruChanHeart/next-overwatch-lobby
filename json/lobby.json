@@ -619,5 +619,23 @@
         "code": "1348",
         "available": true,
         "update": true
+    },
+    {
+        "id": 70,
+        "image": "S16_SF6Collab",
+        "name": "Street Fighter 6",
+        "description": "Season 16 - Street Fighter 6 Event",
+        "code": "1353",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 71,
+        "image": "S16_MythicWeapon",
+        "name": "Merciful Magitech",
+        "description": "Season 16 - Mythic Weapon",
+        "code": "134A",
+        "available": true,
+        "update": true
     }
 ]

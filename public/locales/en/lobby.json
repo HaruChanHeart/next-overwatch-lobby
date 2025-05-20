@@ -275,6 +275,14 @@
         {
             "name": "Gundam W",
             "description": "Season 16 - Gundam W Event"
+        },
+        {
+            "name": "Street Fighter 6",
+            "description": "Season 16 - Street Fighter 6 Event"
+        },
+        {
+            "name": "Merciful Magitech",
+            "description": "Season 16 - Mythic Weapon"
         }
     ]
 }
