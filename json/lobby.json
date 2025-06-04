@@ -622,6 +622,15 @@
     },
     {
         "id": 70,
+        "image": "S16_HeartOfHope",
+        "name": "Heart of Hope",
+        "description": "Season 16 - Mythic Skin",
+        "code": "1345",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 71,
         "image": "S16_SF6Collab",
         "name": "Street Fighter 6",
         "description": "Season 16 - Street Fighter 6 Event",
@@ -630,7 +639,7 @@
         "update": true
     },
     {
-        "id": 71,
+        "id": 72,
         "image": "S16_MythicWeapon",
         "name": "Merciful Magitech",
         "description": "Season 16 - Mythic Weapon",
