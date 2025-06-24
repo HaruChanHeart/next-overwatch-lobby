@@ -14,7 +14,7 @@
         "name": "Overwatch World Cup",
         "description": "World Cup Event",
         "code": "817",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -50,7 +50,7 @@
         "name": "Sojourn",
         "description": "PvP Beta (2022)",
         "code": "D6C",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -158,7 +158,7 @@
         "name": "Main Menu (League)",
         "description": "Main Menu with League Skin",
         "code": "1026",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -167,7 +167,7 @@
         "name": "Galactic Emperor",
         "description": "Season 4 - Mythic Skin",
         "code": "1032",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -212,7 +212,7 @@
         "name": "Invasion",
         "description": "Season 6 - Invasion",
         "code": "1104",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -293,7 +293,7 @@
         "name": "Ancient Caller",
         "description": "Season 9 - Mythic Skin",
         "code": "1200",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -311,7 +311,7 @@
         "name": "Venture Forth",
         "description": "Season 10 - Venture Forth",
         "code": "121A",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -320,7 +320,7 @@
         "name": "Mirrorwatch",
         "description": "Season 10 - Mirrorwatch Event",
         "code": "121E",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -338,7 +338,7 @@
         "name": "Porsche",
         "description": "Season 10 - Porsche Event",
         "code": "1219",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -383,7 +383,7 @@
         "name": "Rose Gold Mercy",
         "description": "Season 11 - BCRF Funding Event",
         "code": "8BA",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -401,7 +401,7 @@
         "name": "Bound Demon",
         "description": "Season 11 - Mythic Weapon",
         "code": "124A",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -410,7 +410,7 @@
         "name": "Lifeguard",
         "description": "Season 11 - Lifeguard Skin Release",
         "code": "1249",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -428,7 +428,7 @@
         "name": "Anubis",
         "description": "Season 12 - Mythic Skin",
         "code": "1277",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -437,7 +437,7 @@
         "name": "Sylvanas",
         "description": "Season 12 - WoW Event",
         "code": "1293",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -455,7 +455,7 @@
         "name": "Spellbinder",
         "description": "Season 13 - Mythic Skin",
         "code": "12A5",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -473,7 +473,7 @@
         "name": "Overwatch: Classic (Illust)",
         "description": "Season 13 - Classic Mode Release",
         "code": "12C2",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -491,7 +491,7 @@
         "name": "Deliverance",
         "description": "Season 13 - Mythic Weapon",
         "code": "12BE",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -500,7 +500,7 @@
         "name": "Hazard",
         "description": "Season 14 - Hazard Release",
         "code": "12C6",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -527,7 +527,7 @@
         "name": "Lead Rose",
         "description": "Season 14 - Mythic Weapon",
         "code": "12CB",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -536,7 +536,7 @@
         "name": "Celestial",
         "description": "Season 14 - Celestial Skin Release",
         "code": "1300",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -545,7 +545,7 @@
         "name": "Overwatch: Classic (Unused)",
         "description": "Season 14 - Classic Mode Release",
         "code": "12BA",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -554,7 +554,7 @@
         "name": "Pixiu",
         "description": "Season 15 - Mythic Skin",
         "code": "1316",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -563,7 +563,7 @@
         "name": "Return to China",
         "description": "Season 15 - China Server Release",
         "code": "1317",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -572,7 +572,7 @@
         "name": "Dame Chance",
         "description": "Season 15 - Mythic Weapon",
         "code": "132D",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -581,7 +581,7 @@
         "name": "Ember",
         "description": "Season 15 - OWCS Clash Event",
         "code": "132F",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -590,7 +590,7 @@
         "name": "LE SSERAFIM",
         "description": "Season 15 - LE SSERAFIM Collab",
         "code": "1331",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -599,8 +599,8 @@
         "name": "Stadium",
         "description": "Season 16 - Stadium Release",
         "code": "1346",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 68,
@@ -608,8 +608,8 @@
         "name": "Freja",
         "description": "Season 16 - Freja Release",
         "code": "1347",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 69,
@@ -617,8 +617,8 @@
         "name": "Gundam W",
         "description": "Season 16 - Gundam W Event",
         "code": "1348",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 70,
@@ -626,8 +626,8 @@
         "name": "Heart of Hope",
         "description": "Season 16 - Mythic Skin",
         "code": "1345",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 71,
@@ -635,8 +635,8 @@
         "name": "Street Fighter 6",
         "description": "Season 16 - Street Fighter 6 Event",
         "code": "1353",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 72,
@@ -644,6 +644,15 @@
         "name": "Merciful Magitech",
         "description": "Season 16 - Mythic Weapon",
         "code": "134A",
+        "available": false,
+        "update": false
+    },
+    {
+        "id": 73,
+        "image": "S17_Mythic",
+        "name": "Horang Hero, Steel Death",
+        "description": "Season 17 - Mythic Skin, Weapon",
+        "code": "1378",
         "available": true,
         "update": true
     }
