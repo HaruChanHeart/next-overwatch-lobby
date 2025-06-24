@@ -329,7 +329,7 @@
         "name": "Mirrorwatch (Illust)",
         "description": "Season 10 - Mirrorwatch Event",
         "code": "10AC",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -482,7 +482,7 @@
         "name": "Neon Streets",
         "description": "Season 13 - OWCS Finals",
         "code": "12A3",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -518,7 +518,7 @@
         "name": "Avatar: The Last Airbender",
         "description": "Season 14 - ATLA Collab",
         "code": "12CA",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
