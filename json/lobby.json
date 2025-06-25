@@ -5,7 +5,7 @@
         "name": "D.Va",
         "description": "Lunar New Year (2020)",
         "code": "710",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -68,7 +68,7 @@
         "name": "Mei",
         "description": "Lunar New Year (2023)",
         "code": "DAD",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
