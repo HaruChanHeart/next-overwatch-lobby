@@ -655,5 +655,14 @@
         "code": "1378",
         "available": true,
         "update": true
+    },
+    {
+        "id": 73,
+        "image": "S17_GIJoeCollab",
+        "name": "G.I. Joe",
+        "description": "Season 17 - G.I. Joe Event",
+        "code": "1379",
+        "available": true,
+        "update": true
     }
 ]
