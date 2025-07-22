@@ -295,6 +295,10 @@
         {
             "name": "G.I. Joe",
             "description": "Season 17 - G.I. Joe Event"
+        },
+        {
+            "name": "Radiant Angel",
+            "description": "Season 17 - OWCS MSC Event"
         }
     ]
 }

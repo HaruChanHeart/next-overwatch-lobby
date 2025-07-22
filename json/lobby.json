@@ -664,5 +664,14 @@
         "code": "1379",
         "available": true,
         "update": true
+    },
+    {
+        "id": 75,
+        "image": "S17_OWCSMercy",
+        "name": "Radiant Angel",
+        "description": "Season 17 - OWCS MSC Event",
+        "code": "138A",
+        "available": true,
+        "update": true
     }
 ]
