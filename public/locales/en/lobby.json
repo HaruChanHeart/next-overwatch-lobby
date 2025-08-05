@@ -299,6 +299,10 @@
         {
             "name": "Radiant Angel",
             "description": "Season 17 - OWCS MSC Event"
+        },
+        {
+            "name": "NERF",
+            "description": "Season 17 - NERF Event"
         }
     ]
 }

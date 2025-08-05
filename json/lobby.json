@@ -673,5 +673,14 @@
         "code": "138A",
         "available": true,
         "update": true
+    },
+    {
+        "id": 75,
+        "image": "S17_NERFCollab",
+        "name": "NERF",
+        "description": "Season 17 - NERF Event",
+        "code": "1389",
+        "available": true,
+        "update": true
     }
 ]

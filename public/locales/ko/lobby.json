@@ -299,6 +299,10 @@
         {
             "name": "찬란한 천사",
             "description": "17시즌 - OWCS MSC 이벤트"
+        },
+        {
+            "name": "NERF",
+            "description": "17시즌 - NERF 이벤트
         }
     ]
 }
