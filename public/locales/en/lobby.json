@@ -303,6 +303,18 @@
         {
             "name": "NERF",
             "description": "Season 17 - NERF Event"
+        },
+        {
+            "name": "Wuyang",
+            "description": "Season 18 - Wuyang Release"
+        },
+        {
+            "name": "Ultraviolet Sentinel, Blazing Sunsetter",
+            "description": "Season 18 - Mythic Skin"
+        },
+        {
+            "name": "Ultraviolet Sentinel, Blazing Sunsetter (Illust)",
+            "description": "Season 18 - Mythic Skin"
         }
     ]
 }

@@ -302,8 +302,8 @@
         "name": "Cowboy Bebop",
         "description": "Season 9 - Cowboy Bebop Event",
         "code": "1202",
-        "available": false,
-        "update": false
+        "available": true,
+        "update": true
     },
     {
         "id": 35,
@@ -654,7 +654,7 @@
         "description": "Season 17 - Mythic Skin, Weapon",
         "code": "1378",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 74,
@@ -663,7 +663,7 @@
         "description": "Season 17 - G.I. Joe Event",
         "code": "1379",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 75,
@@ -672,7 +672,7 @@
         "description": "Season 17 - OWCS MSC Event",
         "code": "138A",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 76,
@@ -680,6 +680,33 @@
         "name": "NERF",
         "description": "Season 17 - NERF Event",
         "code": "1389",
+        "available": true,
+        "update": false
+    },
+    {
+        "id": 77,
+        "image": "S18_Wuyang",
+        "name": "Wuyang",
+        "description": "Season 18 - Wuyang Release",
+        "code": "139D",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 78,
+        "image": "S18_Mythic",
+        "name": "Ultraviolet Sentinel, Blazing Sunsetter",
+        "description": "Season 18 - Mythic Skin",
+        "code": "139F",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 79,
+        "image": "S18_MythicUnused",
+        "name": "Ultraviolet Sentinel, Blazing Sunsetter (Illust)",
+        "description": "Season 18 - Mythic Skin",
+        "code": "13A2",
         "available": true,
         "update": true
     }
