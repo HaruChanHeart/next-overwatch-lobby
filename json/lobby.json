@@ -709,5 +709,23 @@
         "code": "13A2",
         "available": true,
         "update": true
+    },
+    {
+        "id": 80,
+        "image": "S18_Persona5",
+        "name": "Phantom Thieves",
+        "description": "Season 18 - Persona 5 Event",
+        "code": "13AC",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 81,
+        "image": "S18_Anniversary",
+        "name": "Anniversary 2025",
+        "description": "Season 18 - Anniversary Event",
+        "code": "13AD",
+        "available": true,
+        "update": true
     }
 ]
