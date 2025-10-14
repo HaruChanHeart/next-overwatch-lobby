@@ -303,7 +303,7 @@
         "description": "Season 9 - Cowboy Bebop Event",
         "code": "1202",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 35,
