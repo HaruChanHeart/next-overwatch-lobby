@@ -690,7 +690,7 @@
         "description": "Season 18 - Wuyang Release",
         "code": "139D",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 78,
@@ -699,7 +699,7 @@
         "description": "Season 18 - Mythic Skin",
         "code": "139F",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 79,
@@ -708,7 +708,7 @@
         "description": "Season 18 - Mythic Skin",
         "code": "13A2",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 80,
@@ -717,7 +717,7 @@
         "description": "Season 18 - Persona 5 Event",
         "code": "13AC",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 81,
@@ -725,6 +725,24 @@
         "name": "Anniversary 2025",
         "description": "Season 18 - Anniversary Event",
         "code": "13AD",
+        "available": true,
+        "update": false
+    },
+    {
+        "id": 82,
+        "image": "S19_Mythic",
+        "name": "Divine Druid, Spirit Keeper",
+        "description": "Season 19 - Mythic Skin",
+        "code": "13B7",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 83,
+        "image": "S19_Stadium",
+        "name": "Gadgets",
+        "description": "Season 19 - Stadium Update",
+        "code": "13C4",
         "available": true,
         "update": true
     }
