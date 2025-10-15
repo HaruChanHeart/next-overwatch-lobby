@@ -745,5 +745,14 @@
         "code": "13C4",
         "available": true,
         "update": true
+    },
+    {
+        "id": 84,
+        "image": "S19_Halloween",
+        "name": "Haunted Masquerade",
+        "description": "Season 19 - Halloween Event",
+        "code": "13C5",
+        "available": true,
+        "update": true
     }
 ]

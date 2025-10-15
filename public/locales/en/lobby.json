@@ -331,6 +331,10 @@
         {
             "name": "Gadgets",
             "description": "Season 19 - Stadium Update"
+        },
+        {
+            "name": "Haunted Masquerade",
+            "description": "Season 19 - Halloween Event"
         }
     ]
 }
