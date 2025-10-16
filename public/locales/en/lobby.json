@@ -37,7 +37,7 @@
             "description": "Alpha Test (2022)"
         },
         {
-            "name": "One Punch Man",
+            "name": "Training Regimen",
             "description": "Season 3 - One Punch Man Event"
         },
         {
@@ -335,6 +335,10 @@
         {
             "name": "Haunted Masquerade",
             "description": "Season 19 - Halloween Event"
+        },
+        {
+            "name": "One Punch Man",
+            "description": "Season 19 - One Punch Man Event"
         }
     ]
 }

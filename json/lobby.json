@@ -83,7 +83,7 @@
     {
         "id": 10,
         "image": "S3_OnePunchMan",
-        "name": "One Punch Man",
+        "name": "Training Regimen",
         "description": "Season 3 - One Punch Man Event",
         "code": "EED",
         "available": false,
@@ -752,6 +752,15 @@
         "name": "Haunted Masquerade",
         "description": "Season 19 - Halloween Event",
         "code": "13C5",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 85,
+        "image": "S19_OnePunchMan",
+        "name": "One Punch Man",
+        "description": "Season 19 - One Punch Man Event",
+        "code": "13C2",
         "available": true,
         "update": true
     }
