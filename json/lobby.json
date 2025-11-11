@@ -757,6 +757,15 @@
     },
     {
         "id": 85,
+        "image": "S19_OnePunchMan",
+        "name": "One Punch Man",
+        "description": "Season 19 - One Punch Man Event",
+        "code": "13C2",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 86,
         "image": "S19_MythicMid",
         "name": "Cyber Fuel",
         "description": "Season 19 - Mythic Skin",
@@ -765,7 +774,7 @@
         "update": true
     },
     {
-        "id": 86,
+        "id": 87,
         "image": "S19_OWCSFinals",
         "name": "Scarlet Flare",
         "description": "Season 19 - OWCS World Finals Event",
