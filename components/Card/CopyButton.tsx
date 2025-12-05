@@ -1,6 +1,6 @@
-import { Button } from '@nextui-org/react';
+import { Button } from '@heroui/button'
 import { useEffect, useState } from 'react';
-import { CopyToClipboard } from 'react-copy-to-clipboard';
+import { useCopyToClipboard } from '@uidotdev/usehooks'
 
 interface ICopyButton {
     code: string
@@ -8,6 +8,7 @@ interface ICopyButton {
 
 export default function CopyButton(prop: ICopyButton) {
     const [copied, setCopied] = useState(false);
+    const [copiedText, copy] = useCopyToClipboard();
 
     useEffect(() => {
         const timeout = setTimeout(() => {
@@ -21,15 +22,17 @@ export default function CopyButton(prop: ICopyButton) {
     const convertCode = arg.slice(0, arg.length - prop.code.length);
 
     return (
-        <CopyToClipboard text={`${convertCode}${prop.code}`} onCopy={() => setCopied(true)}>
-            <Button
-                color={copied ? `success` : `primary`}
-                radius='full'
-                variant='shadow'
-                size='sm'
-            >
-                {copied ? <span><i className="fa-solid fa-check"></i></span> : <span><i className="fa-solid fa-copy"></i></span> }
-            </Button>
-        </CopyToClipboard>
+        <Button
+            color={copied ? `success` : `primary`}
+            radius='full'
+            variant='shadow'
+            size='sm'
+            onClick={() => {
+                copy(`${convertCode}${prop.code}`);
+                setCopied(true);
+            }}
+        >
+            {copied ? <span><i className="fa-solid fa-check"></i></span> : <span><i className="fa-solid fa-copy"></i></span> }
+        </Button>
     )
 }

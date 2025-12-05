@@ -11,7 +11,8 @@ import LobbyCard from '@/components/Card/LobbyCard'
 import ErrorScreen from '@/components/ErrorScreen'
 import LoadingScreen from '@/components/Loading'
 import ILobbyCard from '@/interfaces/LobbyCard'
-import { Checkbox, Pagination } from '@nextui-org/react'
+import { Checkbox } from '@heroui/checkbox'
+import { Pagination } from '@heroui/pagination'
 
 //Write a fetcher function to wrap the native fetch function and return the result of a call to url in json format
 const fetcher = (url: any) => fetch(url).then((res) => res.json());
@@ -47,13 +48,12 @@ export default function Home() {
     return (a.available === b.available)? 0 : a.available ? -1 : 1;
   });
   const lobbyList = filter === true ? sorted : sorted.slice(pageNum * pageSize - pageSize, pageNum * pageSize);
-
   return (
     <>
       <Head>
         <title>Overwatch 2 Unofficial Menu/Lobby DB</title>
       </Head>
-      <main className={`container mx-auto max-w-7xl pt-16 px-6 flex-grow`}>
+      <main className={`container mx-auto max-w-7xl pt-16 px-6 grow`}>
         <Header />
         <div className='flex flex-row justify-start items-center my-5'>
           <Checkbox onValueChange={setFilter}>{t('update_visible')}</Checkbox>

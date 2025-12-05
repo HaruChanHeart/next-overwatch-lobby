@@ -1,4 +1,4 @@
-import { CircularProgress } from "@nextui-org/react";
+import { CircularProgress } from "@heroui/progress"
 
 export default function LoadingScreen() {
     return (

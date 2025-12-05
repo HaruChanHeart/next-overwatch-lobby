@@ -1,4 +1,4 @@
-import { Link } from "@nextui-org/react"
+import { Link } from '@heroui/link'
 
 export default function Footer() {
     return (

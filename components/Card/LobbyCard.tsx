@@ -1,6 +1,8 @@
-import { Card, CardFooter, Image, Chip } from "@nextui-org/react";
-import CopyButton from "./CopyButton";
-import ILobbyCard from "@/interfaces/LobbyCard";
+import { Card, CardFooter} from "@heroui/card"
+import { Image } from "@heroui/image"
+import { Chip } from "@heroui/chip"
+import CopyButton from "./CopyButton"
+import ILobbyCard from "@/interfaces/LobbyCard"
 import { useTranslation } from "next-i18next"
 
 export default function LobbyCard(prop: ILobbyCard) {
@@ -25,7 +27,7 @@ export default function LobbyCard(prop: ILobbyCard) {
             />
             {prop.update ? <Chip variant='bordered' color='warning' radius='sm' className='absolute top-3 left-3 bg-black/75'>UPDATE</Chip> : null }
             <CardFooter className="absolute bg-black/60 bottom-0 z-10 border-t-1 border-default-600 dark:border-default-100">
-                <div className="flex flex-grow gap-2 items-center">
+                <div className="flex grow gap-2 items-center">
                     <div className="flex flex-col">
                         <p className="text-lg font-bold text-white/60">{t(`lobby:lobbyList.${prop.id - 1}.name`) ?? prop.name}</p>
                         <div className="flex flex-col md:flex-row md:items-center gap-2">

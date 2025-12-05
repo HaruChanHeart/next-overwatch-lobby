@@ -1,4 +1,5 @@
-import { Accordion, AccordionItem, Image } from "@nextui-org/react"
+import { Image } from "@heroui/image"
+import { Accordion, AccordionItem } from "@heroui/accordion"
 import GuideSection from "./Guide/GuideSection"
 import { useTranslation } from "next-i18next"
 
