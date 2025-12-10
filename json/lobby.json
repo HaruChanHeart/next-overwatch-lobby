@@ -735,7 +735,7 @@
         "description": "Season 19 - Mythic Skin",
         "code": "13B7",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 83,
@@ -744,7 +744,7 @@
         "description": "Season 19 - Stadium Update",
         "code": "13C4",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 84,
@@ -753,7 +753,7 @@
         "description": "Season 19 - Halloween Event",
         "code": "13C5",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 85,
@@ -762,7 +762,7 @@
         "description": "Season 19 - One Punch Man Event",
         "code": "13C2",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 86,
@@ -771,7 +771,7 @@
         "description": "Season 19 - Mythic Skin",
         "code": "13DC",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 87,
@@ -779,6 +779,33 @@
         "name": "Scarlet Flare",
         "description": "Season 19 - OWCS World Finals Event",
         "code": "13CA",
+        "available": true,
+        "update": false
+    },
+    {
+        "id": 88,
+        "image": "S20_Vendetta",
+        "name": "Vendetta",
+        "description": "Season 20 - Vendetta Release",
+        "code": "13EF",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 89,
+        "image": "S20_Mythic",
+        "name": "Divine Desperado, Capsule Cannon",
+        "description": "Season 20 - Mythic Skin",
+        "code": "13F1",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 90,
+        "image": "S20_Winter",
+        "name": "2025 Winter Wonderland",
+        "description": "Season 20 - Winter Wonderland Event",
+        "code": "13F0",
         "available": true,
         "update": true
     }

@@ -347,6 +347,18 @@
         {
             "name": "Scarlet Flare",
             "description": "Season 19 - OWCS World Finals Event"
+        },
+        {
+            "name": "Vendetta",
+            "description": "Season 20 - Vendetta Release"
+        },
+        {
+            "name": "Divine Desperado, Capsule Cannon",
+            "description": "Season 20 - Mythic Skin"
+        },
+        {
+            "name": "2025 Winter Wonderland",
+            "description": "Season 20 - Winter Wonderland Event"
         }
     ]
 }
