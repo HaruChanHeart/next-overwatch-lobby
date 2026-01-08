@@ -808,5 +808,14 @@
         "code": "13F0",
         "available": true,
         "update": true
+    },
+    {
+        "id": 91,
+        "image": "S20_MythicMid",
+        "name": "Magma Titan",
+        "description": "Season 20 - Mythic Skin",
+        "code": "1407",
+        "available": true,
+        "update": true
     }
 ]
