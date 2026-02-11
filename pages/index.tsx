@@ -51,7 +51,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Overwatch 2 Unofficial Menu/Lobby DB</title>
+        <title>Overwatch Unofficial Menu/Lobby DB</title>
       </Head>
       <main className={`container mx-auto max-w-7xl pt-16 px-6 grow`}>
         <Header />
