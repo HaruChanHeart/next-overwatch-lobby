@@ -13,9 +13,8 @@ export default function Header() {
                     isBlurred
                     radius='none'
                     src='/logo.svg'
-                    width={'90%'}
                     alt='OVERWATCH LOGO'
-                    className='my-5'
+                    className='my-5 w-2xl'
                 />
             </center>
             <p className='text-xl dark:text-zinc-400'>{t('subtitle')}</p>
