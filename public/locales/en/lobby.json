@@ -363,6 +363,54 @@
         {
             "name": "Magma Titan",
             "description": "Season 20 - Mythic Skin"
+        },
+        {
+            "name": "Celestial Guardian",
+            "description": "2026 Season 1 - Mythic Skin"
+        },
+        {
+            "name": "Star Shooter",
+            "description": "2026 Season 1 - Mythic Weapon"
+        },
+        {
+            "name": "Hello Kitty and Friends",
+            "description": "2026 Season 1 - Hello Kitty Event"
+        },
+        {
+            "name": "Conquest (Week 1)",
+            "description": "2026 Season 1 - Conquest Event"
+        },
+        {
+            "name": "Conquest (Week 2)",
+            "description": "2026 Season 1 - Conquest Event"
+        },
+        {
+            "name": "Conquest (Week 3)",
+            "description": "2026 Season 1 - Conquest Event"
+        },
+        {
+            "name": "Conquest (Week 4)",
+            "description": "2026 Season 1 - Conquest Event"
+        },
+        {
+            "name": "2026 Competitive",
+            "description": "2026 Season 1 - Competitive Update"
+        },
+        {
+            "name": "Emre",
+            "description": "2026 Season 1 - Emre Release"
+        },
+        {
+            "name": "Jetpack Cat",
+            "description": "2026 Season 1 - Jetpack Cat Release"
+        },
+        {
+            "name": "Domina",
+            "description": "2026 Season 1 - Domina Release"
+        },
+        {
+            "name": "Mizuki",
+            "description": "2026 Season 1 - Mizuki Release"
         }
     ]
 }

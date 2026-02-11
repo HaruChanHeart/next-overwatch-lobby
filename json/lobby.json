@@ -789,7 +789,7 @@
         "description": "Season 20 - Vendetta Release",
         "code": "13E9",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 89,
@@ -798,7 +798,7 @@
         "description": "Season 20 - Mythic Skin",
         "code": "13F1",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 90,
@@ -807,7 +807,7 @@
         "description": "Season 20 - Winter Wonderland Event",
         "code": "13F0",
         "available": true,
-        "update": true
+        "update": false
     },
     {
         "id": 91,
@@ -815,6 +815,114 @@
         "name": "Magma Titan",
         "description": "Season 20 - Mythic Skin",
         "code": "1407",
+        "available": true,
+        "update": false
+    },
+    {
+        "id": 92,
+        "image": "2026_S1_Mythic",
+        "name": "Celestial Guardian",
+        "description": "2026 Season 1 - Mythic Skin",
+        "code": "1539",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 93,
+        "image": "2026_S1_MythicWeapon",
+        "name": "Star Shooter",
+        "description": "2026 Season 1 - Mythic Weapon",
+        "code": "146D",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 94,
+        "image": "2026_S1_HelloKitty",
+        "name": "Hello Kitty and Friends",
+        "description": "2026 Season 1 - Hello Kitty Event",
+        "code": "145A",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 95,
+        "image": "2026_S1_TalonW1",
+        "name": "Conquest (Week 1)",
+        "description": "2026 Season 1 - Conquest Event",
+        "code": "1459",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 96,
+        "image": "2026_S1_TalonW2",
+        "name": "Conquest (Week 2)",
+        "description": "2026 Season 1 - Conquest Event",
+        "code": "14BF",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 97,
+        "image": "2026_S1_TalonW3",
+        "name": "Conquest (Week 3)",
+        "description": "2026 Season 1 - Conquest Event",
+        "code": "14C0",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 98,
+        "image": "2026_S1_TalonW4",
+        "name": "Conquest (Week 4)",
+        "description": "2026 Season 1 - Conquest Event",
+        "code": "14C3",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 99,
+        "image": "2026_S1_Competitive",
+        "name": "2026 Competitive",
+        "description": "2026 Season 1 - Competitive Update",
+        "code": "13F8",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 100,
+        "image": "2026_S1_Emre",
+        "name": "Emre",
+        "description": "2026 Season 1 - Emre Release",
+        "code": "145B",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 101,
+        "image": "2026_S1_JetpackCat",
+        "name": "Jetpack Cat",
+        "description": "2026 Season 1 - Jetpack Cat Release",
+        "code": "14B7",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 102,
+        "image": "2026_S1_Domina",
+        "name": "Domina",
+        "description": "2026 Season 1 - Domina Release",
+        "code": "14BA",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 103,
+        "image": "2026_S1_Mizuki",
+        "name": "Mizuki",
+        "description": "2026 Season 1 - Mizuki Release",
+        "code": "14BE",
         "available": true,
         "update": true
     }

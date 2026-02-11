@@ -8,14 +8,16 @@ export default function Header() {
 
     return (
         <header className='w-full flex flex-col gap-1 items-center justify-center pt-20 pb-5'>
-            <Image
-                isBlurred
-                radius='none'
-                src='/logo.svg'
-                width={'100%'}
-                alt='OVERWATCH LOGO'
-                className='my-2'
-            />
+            <center>
+                <Image
+                    isBlurred
+                    radius='none'
+                    src='/logo.svg'
+                    width={'90%'}
+                    alt='OVERWATCH LOGO'
+                    className='my-5'
+                />
+            </center>
             <p className='text-xl dark:text-zinc-400'>{t('subtitle')}</p>
             <Accordion>
                 <AccordionItem key='1' aria-label='Customize Guide' title={t('customize_title')} subtitle={t('customize_subtitle')}>
