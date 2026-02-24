@@ -925,5 +925,14 @@
         "code": "14BE",
         "available": true,
         "update": true
+    },
+    {
+        "id": 104,
+        "image": "2026_S1_Naraka",
+        "name": "Naraka: Bladepoint",
+        "description": "2026 Season 1 - Naraka Event",
+        "code": "145C",
+        "available": true,
+        "update": true
     }
 ]
