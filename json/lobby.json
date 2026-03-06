@@ -934,5 +934,14 @@
         "code": "145C",
         "available": true,
         "update": true
+    },
+    {
+        "id": 105,
+        "image": "2026_S1_WoWPromo",
+        "name": "World of Warcraft: Midnight",
+        "description": "2026 Season 1 - WoW Event",
+        "code": "1451",
+        "available": true,
+        "update": true
     }
 ]
