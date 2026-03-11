@@ -943,5 +943,77 @@
         "code": "1451",
         "available": true,
         "update": true
+    },
+    {
+        "id": 106,
+        "image": "2026_S1_MythicMid",
+        "name": "Hop Online!",
+        "description": "2026 Season 1 - Mythic Skin",
+        "code": "154F",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 107,
+        "image": "2026_S1_Anran",
+        "name": "Anran",
+        "description": "2026 Season 1 - Anran Release",
+        "code": "1583",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 108,
+        "image": "2026_S1_OWCS",
+        "name": "Elysian Keeper",
+        "description": "2026 Season 1 - OWCS Clash Event",
+        "code": "1568",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 109,
+        "image": "2026_S1_TalonW5",
+        "name": "Conquest (Week 5)",
+        "description": "2026 Season 1 - Conquest Event",
+        "code": "153D",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 110,
+        "image": "2026_S1_OverwatchWin",
+        "name": "Conquest - Overwatch Victory",
+        "description": "2026 Season 1 - Conquest Event",
+        "code": "1550",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 111,
+        "image": "2026_S1_TalonWin",
+        "name": "Conquest - Talon Victory",
+        "description": "2026 Season 1 - Conquest Event",
+        "code": "1584",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 112,
+        "image": "2026_S1_Drive",
+        "name": "Competitive Drive",
+        "description": "2026 Season 1 - Competitive Event",
+        "code": "1574",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 113,
+        "image": "2026_S1_NieR",
+        "name": "Project YoRHa",
+        "description": "2026 Season 1 - NieR: Automata Event",
+        "code": "154C",
+        "available": true,
+        "update": true
     }
 ]

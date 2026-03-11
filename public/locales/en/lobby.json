@@ -419,6 +419,38 @@
         {
             "name": "World of Warcraft: Midnight",
             "description": "2026 Season 1 - WoW Event"
+        },
+        {
+            "name": "Hop Online!",
+            "description": "2026 Season 1 - Mythic Skin"
+        },
+        {
+            "name": "Anran",
+            "description": "2026 Season 1 - Anran Release"
+        },
+        {
+            "name": "Elysian Keeper",
+            "description": "2026 Season 1 - OWCS Clash Event"
+        },
+        {
+            "name": "Conquest (Week 5)",
+            "description": "2026 Season 1 - Conquest Event"
+        },
+        {
+            "name": "Conquest - Overwatch Victory",
+            "description": "2026 Season 1 - Conquest Event"
+        },
+        {
+            "name": "Conquest - Talon Victory",
+            "description": "2026 Season 1 - Conquest Event"
+        },
+        {
+            "name": "Competitive Drive",
+            "description": "2026 Season 1 - Competitive Event"
+        },
+        {
+            "name": "Project YoRHa",
+            "description": "2026 Season 1 - NieR: Automata Event"
         }
     ]
 }
