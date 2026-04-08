@@ -1015,5 +1015,23 @@
         "code": "154C",
         "available": true,
         "update": true
+    },
+    {
+        "id": 114,
+        "image": "2026_S1_Underwatch",
+        "name": "Underwatch",
+        "description": "2026 Season 1 - Underwatch Event",
+        "code": "156F",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 115,
+        "image": "2026_S1_Voidwalker",
+        "name": "Voidwalker",
+        "description": "2026 Season 1 - Voidwalker Release",
+        "code": "159C",
+        "available": true,
+        "update": true
     }
 ]

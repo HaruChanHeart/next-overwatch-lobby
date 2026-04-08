@@ -451,6 +451,14 @@
         {
             "name": "Project YoRHa",
             "description": "2026 Season 1 - NieR: Automata Event"
+        },
+        {
+            "name": "Underwatch",
+            "description": "2026 Season 1 - Underwatch Event"
+        },
+        {
+            "name": "Voidwalker",
+            "description": "2026 Season 1 - Voidwalker Release"
         }
     ]
 }
