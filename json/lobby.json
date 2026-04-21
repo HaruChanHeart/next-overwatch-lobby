@@ -23,7 +23,7 @@
         "name": "Overwatch League",
         "description": "Unused scene (No Music)",
         "code": "864",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -32,7 +32,7 @@
         "name": "Cupid Hanzo",
         "description": "Season 3 - Loverwatch Event",
         "code": "B6B",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -41,7 +41,7 @@
         "name": "Summer Games",
         "description": "Season 5 - Summer Games Event",
         "code": "BCE",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -59,7 +59,7 @@
         "name": "Junkrat, Roadhog",
         "description": "Winter Wonderland (2020)",
         "code": "D77",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -77,7 +77,7 @@
         "name": "New Team",
         "description": "Alpha Test (2022)",
         "code": "E77",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -104,7 +104,7 @@
         "name": "Main Menu",
         "description": "Season 1 - Menu",
         "code": "EFB",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -302,7 +302,7 @@
         "name": "Cowboy Bebop",
         "description": "Season 9 - Cowboy Bebop Event",
         "code": "1202",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -446,7 +446,7 @@
         "name": "Midnight Sun",
         "description": "Season 12 - Mythic Weapon",
         "code": "1289",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -653,7 +653,7 @@
         "name": "Horang Hero, Steel Death",
         "description": "Season 17 - Mythic Skin, Weapon",
         "code": "1378",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -662,7 +662,7 @@
         "name": "G.I. Joe",
         "description": "Season 17 - G.I. Joe Event",
         "code": "1379",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -671,7 +671,7 @@
         "name": "Radiant Angel",
         "description": "Season 17 - OWCS MSC Event",
         "code": "138A",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -680,7 +680,7 @@
         "name": "NERF",
         "description": "Season 17 - NERF Event",
         "code": "1389",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -689,7 +689,7 @@
         "name": "Wuyang",
         "description": "Season 18 - Wuyang Release",
         "code": "139D",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -698,7 +698,7 @@
         "name": "Ultraviolet Sentinel, Blazing Sunsetter",
         "description": "Season 18 - Mythic Skin",
         "code": "139F",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -707,7 +707,7 @@
         "name": "Ultraviolet Sentinel, Blazing Sunsetter (Illust)",
         "description": "Season 18 - Mythic Skin",
         "code": "13A2",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -716,7 +716,7 @@
         "name": "Phantom Thieves",
         "description": "Season 18 - Persona 5 Event",
         "code": "13AC",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -725,7 +725,7 @@
         "name": "Anniversary 2025",
         "description": "Season 18 - Anniversary Event",
         "code": "13AD",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -734,7 +734,7 @@
         "name": "Divine Druid, Spirit Keeper",
         "description": "Season 19 - Mythic Skin",
         "code": "13B7",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -743,7 +743,7 @@
         "name": "Gadgets",
         "description": "Season 19 - Stadium Update",
         "code": "13C4",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -752,7 +752,7 @@
         "name": "Haunted Masquerade",
         "description": "Season 19 - Halloween Event",
         "code": "13C5",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -761,7 +761,7 @@
         "name": "One Punch Man",
         "description": "Season 19 - One Punch Man Event",
         "code": "13C2",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -770,7 +770,7 @@
         "name": "Cyber Fuel",
         "description": "Season 19 - Mythic Skin",
         "code": "13DC",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -779,7 +779,7 @@
         "name": "Scarlet Flare",
         "description": "Season 19 - OWCS World Finals Event",
         "code": "13CA",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -788,7 +788,7 @@
         "name": "Vendetta",
         "description": "Season 20 - Vendetta Release",
         "code": "13E9",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -797,7 +797,7 @@
         "name": "Divine Desperado, Capsule Cannon",
         "description": "Season 20 - Mythic Skin",
         "code": "13F1",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -806,7 +806,7 @@
         "name": "2025 Winter Wonderland",
         "description": "Season 20 - Winter Wonderland Event",
         "code": "13F0",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -815,7 +815,7 @@
         "name": "Magma Titan",
         "description": "Season 20 - Mythic Skin",
         "code": "1407",
-        "available": true,
+        "available": false,
         "update": false
     },
     {
@@ -824,8 +824,8 @@
         "name": "Celestial Guardian",
         "description": "2026 Season 1 - Mythic Skin",
         "code": "1539",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 93,
@@ -833,8 +833,8 @@
         "name": "Star Shooter",
         "description": "2026 Season 1 - Mythic Weapon",
         "code": "146D",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 94,
@@ -842,8 +842,8 @@
         "name": "Hello Kitty and Friends",
         "description": "2026 Season 1 - Hello Kitty Event",
         "code": "145A",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 95,
@@ -851,8 +851,8 @@
         "name": "Conquest (Week 1)",
         "description": "2026 Season 1 - Conquest Event",
         "code": "1459",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 96,
@@ -860,8 +860,8 @@
         "name": "Conquest (Week 2)",
         "description": "2026 Season 1 - Conquest Event",
         "code": "14BF",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 97,
@@ -869,8 +869,8 @@
         "name": "Conquest (Week 3)",
         "description": "2026 Season 1 - Conquest Event",
         "code": "14C0",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 98,
@@ -878,8 +878,8 @@
         "name": "Conquest (Week 4)",
         "description": "2026 Season 1 - Conquest Event",
         "code": "14C3",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 99,
@@ -887,8 +887,8 @@
         "name": "2026 Competitive",
         "description": "2026 Season 1 - Competitive Update",
         "code": "13F8",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 100,
@@ -896,8 +896,8 @@
         "name": "Emre",
         "description": "2026 Season 1 - Emre Release",
         "code": "145B",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 101,
@@ -905,8 +905,8 @@
         "name": "Jetpack Cat",
         "description": "2026 Season 1 - Jetpack Cat Release",
         "code": "14B7",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 102,
@@ -914,8 +914,8 @@
         "name": "Domina",
         "description": "2026 Season 1 - Domina Release",
         "code": "14BA",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 103,
@@ -923,8 +923,8 @@
         "name": "Mizuki",
         "description": "2026 Season 1 - Mizuki Release",
         "code": "14BE",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 104,
@@ -932,8 +932,8 @@
         "name": "Naraka: Bladepoint",
         "description": "2026 Season 1 - Naraka Event",
         "code": "145C",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 105,
@@ -941,8 +941,8 @@
         "name": "World of Warcraft: Midnight",
         "description": "2026 Season 1 - WoW Event",
         "code": "1451",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 106,
@@ -950,8 +950,8 @@
         "name": "Hop Online!",
         "description": "2026 Season 1 - Mythic Skin",
         "code": "154F",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 107,
@@ -959,8 +959,8 @@
         "name": "Anran",
         "description": "2026 Season 1 - Anran Release",
         "code": "1583",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 108,
@@ -968,8 +968,8 @@
         "name": "Elysian Keeper",
         "description": "2026 Season 1 - OWCS Clash Event",
         "code": "1568",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 109,
@@ -977,8 +977,8 @@
         "name": "Conquest (Week 5)",
         "description": "2026 Season 1 - Conquest Event",
         "code": "153D",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 110,
@@ -986,8 +986,8 @@
         "name": "Conquest - Overwatch Victory",
         "description": "2026 Season 1 - Conquest Event",
         "code": "1550",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 111,
@@ -995,8 +995,8 @@
         "name": "Conquest - Talon Victory",
         "description": "2026 Season 1 - Conquest Event",
         "code": "1584",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 112,
@@ -1004,8 +1004,8 @@
         "name": "Competitive Drive",
         "description": "2026 Season 1 - Competitive Event",
         "code": "1574",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 113,
@@ -1013,8 +1013,8 @@
         "name": "Project YoRHa",
         "description": "2026 Season 1 - NieR: Automata Event",
         "code": "154C",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 114,
@@ -1022,8 +1022,8 @@
         "name": "Underwatch",
         "description": "2026 Season 1 - Underwatch Event",
         "code": "156F",
-        "available": true,
-        "update": true
+        "available": false,
+        "update": false
     },
     {
         "id": 115,
@@ -1031,6 +1031,42 @@
         "name": "Voidwalker",
         "description": "2026 Season 1 - Voidwalker Release",
         "code": "159C",
+        "available": false,
+        "update": false
+    },
+    {
+        "id": 116,
+        "image": "2026_S2_Sierra",
+        "name": "Sierra",
+        "description": "2026 Season 2 - Sierra Release",
+        "code": "1591",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 117,
+        "image": "2026_S2_SierraStory",
+        "name": "New Heights",
+        "description": "2026 Season 2 - Sierra Story Release",
+        "code": "15A9",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 118,
+        "image": "2026_S2_Mythic",
+        "name": "Volted Overdrive, Sumi-ichimonji",
+        "description": "2026 Season 2 - Mythic Release",
+        "code": "158F",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 119,
+        "image": "2026_S2_Sakura",
+        "name": "Sakura",
+        "description": "2026 Season 2 - Sakura Shop Release",
+        "code": "158B",
         "available": true,
         "update": true
     }

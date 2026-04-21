@@ -459,6 +459,22 @@
         {
             "name": "Voidwalker",
             "description": "2026 Season 1 - Voidwalker Release"
+        },
+        {
+            "name": "Sierra",
+            "description": "2026 Season 2 - Sierra Release"
+        },
+        {
+            "name": "New Heights",
+            "description": "2026 Season 2 - Sierra Story Release"
+        },
+        {
+            "name": "Volted Overdrive, Sumi-ichimonji",
+            "description": "2026 Season 2 - Mythic Release"
+        },
+        {
+            "name": "Sakura",
+            "description": "2026 Season 2 - Shop Release"
         }
     ]
 }
