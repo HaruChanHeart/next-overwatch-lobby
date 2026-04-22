@@ -1065,8 +1065,17 @@
         "id": 119,
         "image": "2026_S2_Sakura",
         "name": "Sakura",
-        "description": "2026 Season 2 - Sakura Shop Release",
+        "description": "2026 Season 2 - Shop Release",
         "code": "158B",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 120,
+        "image": "2026_S2_Rainy",
+        "name": "Rainy Day",
+        "description": "2026 Season 2 - Shop Release",
+        "code": "158C",
         "available": true,
         "update": true
     }
