@@ -1078,5 +1078,23 @@
         "code": "158C",
         "available": true,
         "update": true
+    },
+    {
+        "id": 118,
+        "image": "2026_S2_Diablo",
+        "name": "Hatred's Reckoning",
+        "description": "2026 Season 2 - Diablo Event",
+        "code": "1590",
+        "available": true,
+        "update": true
+    },
+    {
+        "id": 119,
+        "image": "2026_S2_SierraStory2",
+        "name": "A Rare Power",
+        "description": "2026 Season 2 - Sierra Story Release",
+        "code": "1597",
+        "available": true,
+        "update": true
     }
 ]
